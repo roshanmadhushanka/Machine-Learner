@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.ml:org.wso2.carbon.ml.database:1.1.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/ml/org.wso2.carbon.ml.database/1.1.3-SNAPSHOT/org.wso2.carbon.ml.database-1.1.3-20160814.223256-22.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/ml/org.wso2.carbon.ml.database/1.1.3-SNAPSHOT/org.wso2.carbon.ml.database-1.1.3-20160814.223256-22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/ml/org.wso2.carbon.ml.database/1.1.3-SNAPSHOT/org.wso2.carbon.ml.database-1.1.3-20160814.223256-22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

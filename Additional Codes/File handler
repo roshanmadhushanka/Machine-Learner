@@ -1,0 +1,8 @@
+
+        //JFileChooser fileChooser = new JFileChooser();
+        //fileChooser.addChoosableFileFilter(new FileNameExtensionFilter("CSV File","csv"));
+        //fileChooser.setAcceptAllFileFilterUsed(false);
+        //fileChooser.showOpenDialog(null);
+
+        //File inFile = fileChooser.getSelectedFile();
+
